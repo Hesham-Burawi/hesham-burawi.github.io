@@ -1,7 +1,13 @@
 .heading{
     text-align: center;
-    background-color: #FFFFFF
+    background-color: #d4bdbd
 }
 body{
-    background-color: #f96969;
+    background-color: #5a3030;
+}
+.about h3{
+    text-align: center;
+}
+.social h3{
+    text-align:center;
 }
