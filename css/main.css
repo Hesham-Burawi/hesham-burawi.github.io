@@ -1,13 +1,23 @@
-.heading{
+.intro{
     text-align: center;
-    background-color: #d4bdbd
+    background-color: ;
+    color: black;
+    height: 100px;
 }
 body{
-    background-color: #5a3030;
+    background-color: ;
 }
 .about h3{
     text-align: center;
 }
 .social h3{
     text-align:center;
+}
+.footer{
+    background-color: black;
+    color:black;
+    height: 270px;
+}
+.about{
+    margin-bottom: 70px;
 }
