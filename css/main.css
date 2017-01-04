@@ -1,8 +1,11 @@
 .intro{
     text-align: center;
-    background-color: ;
-    color: black;
-    height: 100px;
+    height: 100px; 
+    font-family: Impact, Charcoal, sans-serif;
+    margin-bottom: 50px;
+}
+.intro h2{
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 body{
     background-color: ;
@@ -14,10 +17,32 @@ body{
     text-align:center;
 }
 .footer{
-    background-color: black;
-    color:black;
-    height: 270px;
+    padding-top: 25px;
+    color: ;
+    background-color: ;
+    padding-bottom: 40px;
+    padding-left: 20px;
+
 }
 .about{
     margin-bottom: 70px;
+}
+.skills h3{
+    text-align: center;
+}
+ul li{
+    float: left;
+    display: inline;
+    margin-bottom: 50px;
+}
+.python{
+    padding-left: 40px;
+}
+.intro h1 {
+    margin: 0;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
 }
