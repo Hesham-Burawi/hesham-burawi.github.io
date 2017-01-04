@@ -18,16 +18,16 @@ body{
     text-align:center;
 }
 .footer{
-    padding-top: 25px;
+    padding-top: 1.563.em;
     color: black;
     background-color: ;
-    padding-bottom: 40px;
-    padding-left: 20px;
+    padding-bottom: 2.5em;
+    padding-left: 1.250em;
     font-size: 1.3em;
 
 }
 .about{
-    margin-bottom: 70px;
+    margin-bottom: 4.375em;
 }
 .skills h3{
     text-align: center;
